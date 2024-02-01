@@ -1,4 +1,4 @@
-import HelloWorldButton from "@/components/hello-world-button";
+import HelloWorldButton from "@components/hello-world-button";
 import { type FC } from "react";
 
 const Home: FC = () => {
